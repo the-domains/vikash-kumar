@@ -1,0 +1,28 @@
+name: Vikash Kumar
+favicon: null
+layout_spectrum: 0.4261054357048124
+typography_spectrum: 0.6871986626647413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23991282796487212
+  lightness: 0.5622995255980641
+  saturation: 0.08937171893194318
+  rhythmicContrast: 0.5089177421759814
+purpose: []

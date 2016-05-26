@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vikash Kumar]]></title>
         <description><![CDATA[Vikash Kumar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vikash-kumar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 13:17:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 13:20:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vikash-kumar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi My name is Vikash Kumar and I am Wedding Photographer.</p>]]></description>
-            <link>undefinedhi-my-name-is-vikash-kumar-and-i-am-wedding-photographer/index.html</link>
+            <link>https://thegrid.ai/vikash-kumar/hi-my-name-is-vikash-kumar-and-i-am-wedding-photographer/index.html</link>
             <guid isPermaLink="false">215845c4-781a-4a22-b759-c7cade9e69d3</guid>
-            <pubDate>Thu, 26 May 2016 13:17:51 GMT</pubDate>
+            <pubDate>Thu, 26 May 2016 13:19:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

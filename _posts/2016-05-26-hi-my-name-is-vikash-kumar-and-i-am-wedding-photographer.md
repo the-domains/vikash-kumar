@@ -5,18 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hi My name is Vikash Kumar and I am Wedding Photographer.
-datePublished: '2016-05-26T15:35:13.324Z'
-dateModified: '2016-05-26T14:37:47.587Z'
+datePublished: '2016-08-05T12:01:21.674Z'
+dateModified: '2016-08-05T12:00:07.371Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-hi-my-name-is-vikash-kumar-and-i-am-wedding-photographer.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: hi-my-name-is-vikash-kumar-and-i-am-wedding-photographer/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5c6d02-2574-4179-a8c1-8bb4abb5af36.jpg)
+
 The latest Blog Post 
 
 Hi My name is Vikash Kumar and I am Wedding Photographer.

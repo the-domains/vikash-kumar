@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-20T09:01:50.487Z'
+datePublished: '2016-08-20T09:03:38.220Z'
 sourcePath: >-
   _posts/2016-08-20-plan-your-time-with-makeup-artist-to-set-wedding-schedule-on.md
-author: []
+author:
+  - name: Vikash Kumar
 via: {}
-dateModified: '2016-08-20T09:01:49.593Z'
+dateModified: '2016-08-20T09:03:37.305Z'
 title: Plan your Time with Makeup Artist to set Wedding Schedule on Course
 publisher: {}
 description: >-

@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-20T09:05:25.736Z'
+datePublished: '2016-08-20T09:07:14.012Z'
 sourcePath: >-
   _posts/2016-08-20-plan-your-time-with-makeup-artist-to-set-wedding-schedule-on.md
 author:
   - name: Vikash Kumar
 via: {}
-dateModified: '2016-08-20T09:05:24.286Z'
+dateModified: '2016-08-20T09:07:13.099Z'
 title: Plan your Time with Makeup Artist to set Wedding Schedule on Course
 publisher: {}
 description: >-
   While the wedding time is the most awaited period in one’s life, it brings
   with it lots of chaos and panic, especially if things are not scheduled
-  properly.
+  properly. 
 starred: true
 inFeed: true
 hasPage: false
@@ -23,7 +23,7 @@ _type: MediaObject
 
 # **Plan your Time with Makeup Artist to set Wedding Schedule on Course**
 
-While the wedding time is the most awaited period in one's life, it brings with it lots of chaos and panic, especially if things are not scheduled properly.
+While the wedding time is the most awaited period in one's life, it brings with it lots of chaos and panic, especially if things are not scheduled properly. 
 
 One of the major aspects of any wedding is the bridal make-up. Every bride wants to look beautiful on her wedding day, for obvious reasons. While the wedding day makeup session is quite an important part of the day, a mis-management or tad delay can lead to various problems.
 

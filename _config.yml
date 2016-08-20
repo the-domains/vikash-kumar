@@ -1,19 +1,4 @@
-name: Vikash Kumar
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5622995255980641
   saturation: 0.08937171893194318
   rhythmicContrast: 0.5089177421759814
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Vikash Kumar
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Home D
+    id: 215845c4-781a-4a22-b759-c7cade9e69d3
+    type: content
+favicon: null
 purpose: []

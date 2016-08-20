@@ -1,17 +1,17 @@
 ---
+datePublished: '2016-08-20T09:01:50.487Z'
+sourcePath: >-
+  _posts/2016-08-20-plan-your-time-with-makeup-artist-to-set-wedding-schedule-on.md
+author: []
+via: {}
+dateModified: '2016-08-20T09:01:49.593Z'
+title: Plan your Time with Makeup Artist to set Wedding Schedule on Course
+publisher: {}
 description: >-
   While the wedding time is the most awaited period in one’s life, it brings
   with it lots of chaos and panic, especially if things are not scheduled
   properly.
-dateModified: '2016-08-20T08:53:23.111Z'
-datePublished: '2016-08-20T08:54:10.046Z'
-title: Plan your Time with Makeup Artist to set Wedding Schedule on Course
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-20-plan-your-time-with-makeup-artist-to-set-wedding-schedule-on.md
 inFeed: true
 hasPage: false
 inNav: false
